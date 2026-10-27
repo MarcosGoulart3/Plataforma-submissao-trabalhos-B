@@ -1,0 +1,10 @@
+node_modules
+dist
+storage
+storage-test
+coverage
+.env
+.git
+.vscode
+tests
+**/*.test.ts
